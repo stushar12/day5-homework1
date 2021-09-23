@@ -1,0 +1,57 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(138, 232, 255);
+}
+
+.div1{
+    height:100vmin;
+    width:100%;
+    
+    
+    
+}
+
+#parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.flex
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+}
+
+
+
+.para
+{
+    text-align: center;
+    font-size:80px;
+    width: max-content;
+    height: max-content;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 12px ridge black;
+    border-radius: 250px;
+    padding: 20px;
+    background-color: antiquewhite;
+    color:slateblue
+    
+}
+
+.button1
+{
+    background-color:salmon;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 500px;
+    margin-top: -100px;
+    cursor: pointer;
+}
+
